@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Bot Simulator",
+  "description": "A web application that simulates a chat interface with a Telegram bot powered by the Gemini API, providing intelligent and conversational responses.",
+  "requestFramePermissions": []
+}
